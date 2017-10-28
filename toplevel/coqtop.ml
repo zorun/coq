@@ -667,5 +667,3 @@ let start () =
      dump glob is nothing but garbage ...  *)
   !toploop_run ();
   exit 1
-
-(* [Coqtop.start] will be called by the code produced by coqmktop *)
